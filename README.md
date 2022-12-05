@@ -1,2 +1,3 @@
-# Library_System
-Build a library system based on C/C++ and QT
+# Library System
+
+Run the program: exe -> library.exe

@@ -1,0 +1,64 @@
+{
+  "Version": 1.2,
+  "General": {
+    "Project": "",
+    "ProjectOwnerNavicatID": "",
+    "Server": "localhost_3306",
+    "Catalog": "",
+    "Schema": "library",
+    "ExportType": "SQL",
+    "ExportDirectoryBookmark": "",
+    "ExportDirectoryPath": "",
+    "TargetCodepage": 65001,
+    "AddTimeStamp": false,
+    "TimeStampFormat": "",
+    "IncludeTitle": true,
+    "FieldDelimiter": "\t",
+    "DateFormat": "DMY",
+    "DateSeparator": "/",
+    "ZeroPaddingDate": false,
+    "TimeSeparator": ":",
+    "DecimalSeparator": ".",
+    "TextQualifier": "\"",
+    "RowDelimiter": "CRLF",
+    "XMLFormat": "Element",
+    "UseBase64": true,
+    "AppendRecord": false,
+    "BlankIfZero": false,
+    "ContinueOnError": true,
+    "CloudInstanceName": "",
+    "UseJsonLegacyFormat": false
+  },
+  "Objects": [
+    {
+      "Object": {
+        "Name": "admin",
+        "ObjectType": "Table_MYSQL"
+      },
+      "TargetName": "admin",
+      "TargetFilePath": "D:\\Desktop\\admin.sql",
+      "AllFields": true,
+      "Fields": []
+    },
+    {
+      "Object": {
+        "Name": "loginadmin",
+        "ObjectType": "Table_MYSQL"
+      },
+      "TargetName": "loginadmin",
+      "TargetFilePath": "D:\\Desktop\\loginadmin.sql",
+      "AllFields": true,
+      "Fields": []
+    },
+    {
+      "Object": {
+        "Name": "loginreader",
+        "ObjectType": "Table_MYSQL"
+      },
+      "TargetName": "loginreader",
+      "TargetFilePath": "D:\\Desktop\\loginreader.sql",
+      "AllFields": true,
+      "Fields": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('fff', 'ddd');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('hg', 'df');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('jj', 'f');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('gd', 'sde');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('ff', 'ddd');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('abc', '222');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('lp', '23');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('', '');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('vv', 'dc');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('25', '45');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('12', '12');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('jk', '45');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('g', 's');
+INSERT INTO `loginadmin` (`username`, `password`) VALUES ('zwr', 'hjq');
